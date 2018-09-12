@@ -66,10 +66,5 @@ namespace _02_ReviewExtension
             }
             LstView.Items.Add("there were " + countThreeH + " toss with 3 H");
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
